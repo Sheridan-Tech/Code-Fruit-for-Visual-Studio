@@ -1,4 +1,5 @@
 "# Code-Fruit-for-Visual-Studio" 
+VS settings for VS2015
 
 This adds fruit themed syntax highlighting to Visual Studio.
 
@@ -11,3 +12,8 @@ Click Browse... to choose the file you downloaded.
 You get a choice which settings you want to import - choose all of them since the file only contains color settings and won't touch your other VS settings.
 
 Click Finish and you'll see the new colors.
+
+
+
+Created by James
+www.sheridan-tech.com
