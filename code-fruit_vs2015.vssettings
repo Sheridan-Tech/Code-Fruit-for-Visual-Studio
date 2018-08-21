@@ -13,7 +13,7 @@
 							<Item Name="Plain Text" Foreground="0x00DEDEDE" Background="0x00282828" BoldFont="No"/>
 							<Item Name="Comment" Foreground="0x00717171" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Selected Text" Foreground="0x00FFFFFF" Background="0x00756B00" BoldFont="No"/>
-							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x0000A5FF" BoldFont="No"/>
+							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x004000D1" BoldFont="No"/>
 							<Item Name="Identifier" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Number" Foreground="0x007128F8" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Operator" Foreground="0x00B7E2E8" Background="0x02000000" BoldFont="No"/>
@@ -29,7 +29,7 @@
 							<Item Name="Line Numbers" Foreground="0x00AF912B" Background="0x00000000" BoldFont="No"/>
 							<Item Name="Preprocessor Keyword" Foreground="0x0036E1A4" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Keyword" Foreground="0x00F180AE" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XML Doc Comment" Foreground="0x00008000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XML Doc Comment" Foreground="0x00A6A6A6" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Doc Tag" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CurrentLineActiveFormat" Foreground="0x02000000" Background="0x00000000" BoldFont="No"/>
 							<Item Name="CurrentLineInactiveFormat" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
@@ -82,10 +82,10 @@
 							<Item Name="outlining.collapsehintadornment" Foreground="0x00514E3E" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Collapsible Text" Foreground="0x00808080" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Excluded Code" Foreground="0x00616161" Background="0x02000000" BoldFont="No"/>
-							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x003D91FF" BoldFont="No"/>
+							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x00CB3A3A" BoldFont="No"/>
 							<Item Name="Breakpoint (Enabled)" Foreground="0x00FFFFFF" Background="0x00463A96" BoldFont="No"/>
 							<Item Name="Current Statement" Foreground="0x00000000" Background="0x0055D1D3" BoldFont="No"/>
-							<Item Name="CppEnumSemanticTokenFormat" Foreground="0x00FF5C4D" Background="0x02000000" BoldFont="No"/>
+							<Item Name="CppEnumSemanticTokenFormat" Foreground="0x00FF504D" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CppMemberFieldSemanticTokenFormat" Foreground="0x0036E1A4" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CppFunctionSemanticTokenFormat" Foreground="0x0036E1A4" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CppLocalVariableSemanticTokenFormat" Foreground="0x00DEDEDE" Background="0x02000000" BoldFont="No"/>
