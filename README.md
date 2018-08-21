@@ -3,6 +3,9 @@ VS settings for VS2015
 
 This adds fruit themed syntax highlighting to Visual Studio.
 
+It has a variety of different colors to increase readability.
+
+
 In Visual Studio, choose Tools > Import and Export Settings
 
 Choose Import Selected Environment Settings and select whether you want to back up your existing settings or not
